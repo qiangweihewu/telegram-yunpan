@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/billy4479/telegram-storage/backend/bot"
-	"github.com/billy4479/telegram-storage/backend/db"
+	"github.com/qiangweihewu/telegram-yunpan/backend/bot"
+	"github.com/qiangweihewu/telegram-yunpan/backend/db"
 	"github.com/labstack/echo/v4"
 )
 
