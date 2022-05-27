@@ -22,7 +22,7 @@ services:
 
   bot-api:
     container_name: tgs-bot-api-dev
-    build: https://github.com/billy4479/telegram-bot-api.git
+    build: https://github.com/qiangweihewu/telegram-bot-api.git
     restart: unless-stopped
     environment:
       TELEGRAM_API_ID: "${TELEGRAM_API_ID:?missing TELEGRAM_API_ID}"
