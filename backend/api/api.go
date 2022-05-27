@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/billy4479/telegram-storage/backend/bot"
+	"github.com/qiangweihewu/telegram-yunpan/backend/bot"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )
